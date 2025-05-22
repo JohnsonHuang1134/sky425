@@ -695,7 +695,7 @@ html[lang="en"] .headermainmenu .menu_main ul li .subtit {
         width: 15%;
     }
     .headermainmenu .menu_main .logobox {
-        width: 55%;
+        width: calc(100% - 48px);
     }
     .topheader a#pull,
     .headermainmenu .menu_main .logobox a,
