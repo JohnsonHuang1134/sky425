@@ -792,7 +792,7 @@ html[lang="en"] .headermainmenu .menu_main ul li .subtit {
         z-index: 9999;
     }
     .menu_main {
-        /*width: 50%;*/
+        width: 100%;
         z-index: 99;
         position: fixed;
         /*absolute*/
